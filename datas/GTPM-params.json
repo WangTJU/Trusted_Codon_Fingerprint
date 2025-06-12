@@ -1,0 +1,26 @@
+{
+    "file_paths": {
+        "CODONBIAS_PATH": "../datas/E.coli-original-256.json",
+        "RULER_PATH": "../datas/OGR.json",
+        "ENCODE_PATH": "../datas/encode.json",
+        "ENCODE_RESULT_PATH": "../datas/encode_result.json",
+        "DECODE_PATH": "../datas/decode.json",
+        "DECODE_RESULT_PATH": "../datas/decode_result.csv",
+        "GENE_INFO_PATH": "../datas/gene_info.txt"
+    },
+    "function": {
+        "ENCODE": 1,
+        "DECODE": 0
+    },
+    "params": {
+        "Min_Gene": 600,
+        "Max_Gene": 900,
+        "FA": [0,1,2],
+        "Search_Reverse": 1,
+        "Search_All_Gene": 0,
+        "Search_All_Payload": 1,
+        "Payload_Wit_TOL": 5,
+        "Output_Seq": 1
+    },
+    "password": "abcdef"
+}

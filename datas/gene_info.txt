@@ -1,0 +1,14 @@
+Decode
+-------------------------------------
+gene:	861 nt	287 AA
+-------------------------------------
+ATG:	3 nt	1 AA
+Head:	201 nt	67 AA
+			gene_id:	BL213S 1.0
+			L|R|P:	 	0|0|1
+			payload_len:	1000
+			(3')L_len:	0
+			(5')R_len:	0
+GMS:	564 nt	188 AA
+FA:	90 nt	30 AA
+TAA:	3 nt	1 AA
